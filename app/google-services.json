@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "768673475747",
+    "project_id": "appelnfc",
+    "storage_bucket": "appelnfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768673475747:android:cd12d25031931cd0572316",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768673475747-99sjlp7r2kt08vcnafbkbgomglbv9rf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2MBl2_N4gs15E5qr3ZNveJHkck7y8GAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768673475747-99sjlp7r2kt08vcnafbkbgomglbv9rf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768673475747:android:c6f2950ecd3d5106572316",
+        "android_client_info": {
+          "package_name": "com.app.appelnfc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768673475747-99sjlp7r2kt08vcnafbkbgomglbv9rf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2MBl2_N4gs15E5qr3ZNveJHkck7y8GAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768673475747-99sjlp7r2kt08vcnafbkbgomglbv9rf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

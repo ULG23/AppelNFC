@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<etudiants>
+    <etudiant>
+        <numSerie>04:49:19:3A:CF:71:80</numSerie>
+        <nom>Da Silva</nom>
+        <prenom>Jeremy</prenom>
+        <numEtudiant>22102932</numEtudiant>
+    </etudiant>
+    <etudiant>
+        <numSerie>04:16:3C:EA:CE:71:80</numSerie>
+        <nom>Miguet</nom>
+        <prenom>Gauthier</prenom>
+        <numEtudiant>22104037</numEtudiant>
+    </etudiant>
+    <etudiant>
+        <numSerie>04:49:19:3A:CF:71:80</numSerie>
+        <nom>Da Silva</nom>
+        <prenom>Jeremy</prenom>
+        <numEtudiant>22102932</numEtudiant>
+    </etudiant>
+    <etudiant>
+        <numSerie>04:16:3C:EA:CE:71:80</numSerie>
+        <nom>Miguet</nom>
+        <prenom>Gauthier</prenom>
+        <numEtudiant>22104037</numEtudiant>
+    </etudiant>
+    <etudiant>
+        <numSerie>04:1E:0B:EA:CE:71:80</numSerie>
+        <nom>Yaghdjian</nom>
+        <prenom>Marion</prenom>
+        <numEtudiant>22103935</numEtudiant>
+    </etudiant>
+    <etudiant>
+        <numSerie>04:38:76:EA:CE:71:80</numSerie>
+        <nom>Friedrich</nom>
+        <prenom>William</prenom>
+        <numEtudiant>221004227</numEtudiant>
+    </etudiant>
+    <etudiant>
+        <numSerie>04:16:53:EA:CE:71:80</numSerie>
+        <nom>Sottile</nom>
+        <prenom>Justin</prenom>
+        <numEtudiant>22104239</numEtudiant>
+    </etudiant>
+</etudiants>

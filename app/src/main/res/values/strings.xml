@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppelNFC</string>
+    <string name="connect_to_wifi">Se connecter à Appelator3000</string>
+    <string name="Coursname">Cours</string>
+    <string name="StartHours">8h</string>
+    <string name="EndHours">10h</string>
+</resources>
